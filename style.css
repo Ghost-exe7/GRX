@@ -2,9 +2,12 @@
 body {
   margin: 0;
   font-family: 'Arial', sans-serif;
-  background-color: #000;
+  background: url('GRX_Clan_WebHero.png') no-repeat center center fixed;
+  background-size: cover;
   color: white;
   overflow: hidden;
+}
+
 }
 
 .background {
