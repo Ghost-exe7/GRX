@@ -87,7 +87,7 @@ form button {
   top: 0; left: 0;
   width: 100vw;
   height: 100vh;
-  background: url('https://i.ibb.co/WxPMfQw/fog1.png') repeat;
+  background: url('fog1.png') repeat;
   opacity: 0.1;
   animation: fogmove 120s linear infinite;
   z-index: -5;
